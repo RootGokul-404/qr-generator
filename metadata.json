@@ -1,0 +1,10 @@
+{
+  "name": "Dairy QR & Supply Chain Portal",
+  "description": "Enterprise Dairy QR, Barcode, Receiving, Putaway, and Supply Chain Management Portal with offline persistence and real-time scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
