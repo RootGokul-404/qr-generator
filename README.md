@@ -98,8 +98,8 @@ Make sure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/RootGokul-404/qr-generator
+cd 
 ```
 
 ### 2. Install dependencies
