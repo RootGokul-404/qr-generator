@@ -8,7 +8,7 @@ A modern, responsive supply chain operations portal built for **dairy industry w
 
 Explore the deployed application:
 
-**[Vesta Dairy OS — Live Demo](https://qr-generator-i64qilj2f-gokulakannan7972-3798s-projects.vercel.app/)**
+**[Vesta Dairy OS — Live Demo](https://qr-generator-iota-hazel.vercel.app/)**
 
 ---
 
