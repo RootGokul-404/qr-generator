@@ -194,7 +194,7 @@ Vesta Dairy OS focuses on:
 The application is deployed and available online:
 
 **Live Application:**
-https://qr-generator-i64qilj2f-gokulakannan7972-3798s-projects.vercel.app/
+https://qr-generator-iota-hazel.vercel.app/
 
 ---
 
